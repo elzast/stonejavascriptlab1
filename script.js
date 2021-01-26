@@ -1,12 +1,20 @@
-let fullName = `Elijah Stone`;
-let age = 2000000;
-let birthday = `November 2nd`;
+const fullName = `Elijah Stone`;
+const age = 2000000;
+const birthday = `November 2nd`;
 let isGCDetroit = true;
 
-console.log(fullName);
-console.log(age);
-console.log(birthday);
-console.log(isGCDetroit);
+// console.log(fullName);
+// console.log(age);
+// console.log(birthday);
+// console.log(isGCDetroit);
+
+// how mitch solved array
+// let lifeEvents=[
+//   "I own a Harley Davidson",
+//   "I was a cheerleader in College",
+//   "I wrestled in highschool",
+//   "I can do a handstand on a skateboard",
+// ];
 
 let lifeEvents = new Array()
 lifeEvents[0] = `300 B.C -- Landed on Earth `;
